@@ -17,6 +17,9 @@ describe PlayerMove do
     it 'should intantiate a class' do
       expect(player).to be_a_kind_of Object
     end
+    it 'should return false for none WIN COMBOs' do
+      expect(player.win?(loss_board, player_token)).to be false
+    end
     it 'should return true for any WIN COMBOs' do
       expect(player.win?(win_board, player_token)).to be true
     end
