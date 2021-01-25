@@ -34,4 +34,6 @@ jobs:
     - name: Install dependencies
       run: gem install bundler:2.2.5
     - name: Run tests
-      run: rspec spec
+      run:  |
+        cd ./../spec
+        rspec
