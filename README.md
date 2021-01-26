@@ -5,14 +5,25 @@ Command line based game built with Ruby
 ## Getting started
 
 - Have Ruby programming language install on you computer. you can check it at <https://www.ruby-lang.org/en/downloads/>
-- Clone the repository at <https://github.com/icebox827/tic-tac-toe.git> if you are using https
-- Or you can clone it ver SSH at git@github.com:icebox827/tic-tac-toe.git
+- Clone the repository at <https://github.com/oxenprogrammer/tic-tac-toe> if you are using https
+- Or you can clone it via SSH at https://github.com/oxenprogrammer/tic-tac-toe. And we tested all of them using RSpec.
+
+## Built With
+* Ruby
+* RSpec
+
+
+### Knowledge acquired during this project:
+- **Ability to code in ruby using RSpec**
+- **Implementation of several Ruby methods and classes**
+- **Ability to navigate through Ruby documentation while coding**
 
 ## Usage
 
+- run `bundle install` in the terminal
 - Run 'bin/main.rb' in your terminal to start the game.
 - Next you will be promted to enter each players name and each player will be assigned a symbol to use in the game.
-- Now you are ready to play the game
+- Now you are ready to play the game.
 
 ## How to play
 
@@ -25,11 +36,11 @@ Command line based game built with Ruby
 
 ## Authors
 
-👤 **Denis Lafontant**
+👤 **Iyunda Ismael Antonio**
 
-- GitHub: [@icebox827](https://github.com/icebox827)
-- Twitter: [@heracles2k5](https://twitter.com/@heracles2k5)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/denis-lafontant-37031439/)
+- GitHub: [@ixboy](https://github.com/ixboy)
+- Twitter: [@ismaelixboy](https://twitter.com/ismaelixboy)
+- LinkedIn: [ismael-antonio](https://www.linkedin.com/in/ismael-antonio-0b7712114/)
 
 👤 **Emmanuel Okello**
 
@@ -37,15 +48,10 @@ Command line based game built with Ruby
 - Twitter: [@ox_emmy](https://twitter.com/ox_emmy)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/emanuel-okello-1217b4b3/)
 
-## Live Demo
-
-[Live Demo Link](https://repl.it/@DenisLafontant/WhisperedBelovedPlots#games.rb)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/icebox827/tic-tac-toe/issues/4).
 
 ## Show your support
 
