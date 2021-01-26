@@ -20,6 +20,7 @@ Command line based game built with Ruby
 
 ## Usage
 
+- run `bundle install` in the terminal
 - Run 'bin/main.rb' in your terminal to start the game.
 - Next you will be promted to enter each players name and each player will be assigned a symbol to use in the game.
 - Now you are ready to play the game.
